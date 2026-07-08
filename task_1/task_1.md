@@ -2,7 +2,6 @@
 
 Binary classification solution predicting which passengers were transported to an alternate dimension during the Spaceship Titanic's collision with a spacetime anomaly.
 
-**Competition**: [Kaggle - Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic)
 
 ## Approach
 
