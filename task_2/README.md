@@ -99,9 +99,3 @@ ollama
 Pillow
 ```
 
-## License
-
-This project is open source and available under the MIT License.
-```
-
-All steps now follow the same format with consistent code blocks, clear headings, and OS-specific instructions where needed.
